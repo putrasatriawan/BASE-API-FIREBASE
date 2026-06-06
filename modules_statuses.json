@@ -1,0 +1,20 @@
+{
+    "Auth": true,
+    "Shipment": true,
+    "CategoryProduct": true,
+    "BrandProduct": true,
+    "Product": true,
+    "BannerSlider": true,
+    "BannerUp": true,
+    "BannerDown": true,
+    "ProductsHiglight": true,
+    "ProductsHighlight": true,
+    "Cart": true,
+    "Checkout": true,
+    "Wishlist": true,
+    "User": true,
+    "Midtrans": true,
+    "Order": true,
+    "Transaction": true,
+    "Review": true
+}
